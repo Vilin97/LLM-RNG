@@ -1,3 +1,8 @@
+*.csv
+*.png
+*.txt
+
+
 /exp_1_basic_distribution_across_different_model_sizes_results_20250621_195715.csv
 /exp_1_basic_distribution_plot_20250621_195716.png
 /exp_1_basic_distribution_plot_20250621_200649.png
